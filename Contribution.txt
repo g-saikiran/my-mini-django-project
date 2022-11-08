@@ -1,0 +1,10 @@
+NAME: GANDLA SAI KIRAN
+
+An E.M.S[Employee Management System] Built with Django in such a way of Functioning all the CRUD Operation on Employee's,Department's,Appraisal's and Timesheets in which the admin can perform any operation on the data.
+
+
+CONTRIBUTION:
+1.Created the Model and Database for storing and Showing the Data.
+2.Created the functions of Employee management and Exhibited all the CRUD Operations on the Employee and Timesheets.
+3.Privilege of Accessing the application only to admin and restricted the Functions Using Decorators.
+4.Also Involved in Frontend Part.[Manage all,]
